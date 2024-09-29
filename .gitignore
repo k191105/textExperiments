@@ -1,0 +1,8 @@
+entropy_visualisations.py
+spectral_visualisation.py
+venv/
+spectralGaps/
+entropyValues/
+allfiles.txt
+hape-text_gpt-4o-2024-08-06.parquet
+hape-text_human-chunk-2.parquet
